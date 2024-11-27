@@ -21,7 +21,6 @@
         "fotos": "fotoscarruselquesemostraranalclikearlatarjeta-1.jpg"
     },
 
-    [
   {
     "titulo": "Proyecto 1",
     "descripcion": "Descripción breve del proyecto 1.",
@@ -46,30 +45,7 @@
     "titulo": "Proyecto 5",
     "descripcion": "Descripción breve del proyecto 5.",
     "imagen": "https://via.placeholder.com/300x200"
-  },
-  {
-    "titulo": "Proyecto 6",
-    "descripcion": "Descripción breve del proyecto 6.",
-    "imagen": "https://via.placeholder.com/300x200"
-  },
-  {
-    "titulo": "Proyecto 7",
-    "descripcion": "Descripción breve del proyecto 7.",
-    "imagen": "https://via.placeholder.com/300x200"
-  },
-  {
-    "titulo": "Proyecto 8",
-    "descripcion": "Descripción breve del proyecto 8.",
-    "imagen": "https://via.placeholder.com/300x200"
-  },
-  {
-    "titulo": "Proyecto 9",
-    "descripcion": "Descripción breve del proyecto 9.",
-    "imagen": "https://via.placeholder.com/300x200"
-  },
-  {
-    "titulo": "Proyecto 10",
-    "descripcion": "Descripción breve del proyecto 10.",
-    "imagen": "https://via.placeholder.com/300x200"
   }
+
+
 ]
