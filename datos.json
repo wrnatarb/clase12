@@ -1,26 +1,14 @@
 [
-    {
-        "nombre": "Avatar",
-        "foto": "[avatar.jpg]",
-    },
-    {
-        "nombre": "Violeta.wav",
-        "fecha": "",
-        "signo": "",
-        "foto": ["violeta-0.jpg"],
-        "desc": "Afiche de documental en colaboración con Prisma Distribution. Se hace a partir del cortometraje creado por el alumnado, en este caso Violeta.wav. Se rescata el símbolo de sirena.",
-        "github": "",
-        "fotos": ""
-    },
-    {
-        "nombre": "titulo proyecto",
-        "fecha": "fecha de elaboracion",
-        "signo": "tipo de diseño",
-        "foto": ["fotosencarpetaimgs-1.jpg"],
-        "desc": "descripcion de trabajo",
-        "fotos": "fotoscarruselquesemostraranalclikearlatarjeta-1.jpg"
-    },
-
+  {
+    "titulo": "Avatar",
+    "descripcion": "Breve descripción del proyecto Avatar.",
+    "imagen": "https://via.placeholder.com/300x200"
+  },
+  {
+    "titulo": "Violeta.wav",
+    "descripcion": "Afiche de documental en colaboración con Prisma Distribution.",
+    "imagen": "https://via.placeholder.com/300x200"
+  },
   {
     "titulo": "Proyecto 1",
     "descripcion": "Descripción breve del proyecto 1.",
@@ -40,12 +28,5 @@
     "titulo": "Proyecto 4",
     "descripcion": "Descripción breve del proyecto 4.",
     "imagen": "https://via.placeholder.com/300x200"
-  },
-  {
-    "titulo": "Proyecto 5",
-    "descripcion": "Descripción breve del proyecto 5.",
-    "imagen": "https://via.placeholder.com/300x200"
   }
-
-
 ]
